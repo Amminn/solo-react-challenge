@@ -20,7 +20,8 @@ body {
 }
 
 .card {
-  /* margin-block: 2rem; */
+  display: flex;
+  flex-direction: column;
   width: 317px;
   height: 780px;
   border-radius: 10px;
@@ -90,7 +91,7 @@ body {
 .content {
   /* background: red; */
   padding-inline: 2rem;
-  margin-bottom: 5.1rem;
+  margin-bottom: auto;
 }
 
 .content h2 {
