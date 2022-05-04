@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/solo-react-challenge/static/css/main.d590a3a7.css",
+    "main.js": "/solo-react-challenge/static/js/main.0e017544.js",
+    "static/media/me.jpg": "/solo-react-challenge/static/media/me.c96498a2bea4efe7571b.jpg",
+    "index.html": "/solo-react-challenge/index.html",
+    "main.d590a3a7.css.map": "/solo-react-challenge/static/css/main.d590a3a7.css.map",
+    "main.0e017544.js.map": "/solo-react-challenge/static/js/main.0e017544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d590a3a7.css",
+    "static/js/main.0e017544.js"
+  ]
+}
